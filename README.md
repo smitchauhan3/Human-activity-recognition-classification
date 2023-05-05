@@ -20,7 +20,8 @@ Approach To The Problem:
 ----------------------------------------------------------------------------------
   How to Execute Program
 ----------------------------------------------------------------------------------
-1. First of all u have to run 'record_actions.py' for recording of your activity in form of numpy data.
-2. After creating numpy data of your Activity you have to run 'make_model.py' for make a LSTM model. you can alse use our pretrained model 
-but I suggest you have to record Activity yourself for better results.
+1. First of all you have to run 'record_actions.py' for recording of your activity in form of numpy data.
+2. After creating numpy data of your Activity you have to run 'make_model.py' for make a LSTM model. 
+you can also use our pretrained model but I suggest you have to record Activity yourself for better results.
 3. 'main.py' is a main file of real time Activity Recognization and Classification.
+
